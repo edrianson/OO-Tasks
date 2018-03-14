@@ -1,0 +1,2 @@
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.csproj.CoreCompileInputs.cache

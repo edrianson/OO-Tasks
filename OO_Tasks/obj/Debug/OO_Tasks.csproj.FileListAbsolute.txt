@@ -1,0 +1,12 @@
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.dll
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.pdb
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.dll
+C:\Users\Edrian\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.pdb
+C:\Users\Edrian\Desktop\OO-Tasks-master\OO_Tasks\bin\Debug\OO_Tasks.dll
+C:\Users\Edrian\Desktop\OO-Tasks-master\OO_Tasks\bin\Debug\OO_Tasks.pdb
+C:\Users\Edrian\Desktop\OO-Tasks-master\OO_Tasks\obj\Debug\OO_Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Edrian\Desktop\OO-Tasks-master\OO_Tasks\obj\Debug\OO_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Edrian\Desktop\OO-Tasks-master\OO_Tasks\obj\Debug\OO_Tasks.dll
+C:\Users\Edrian\Desktop\OO-Tasks-master\OO_Tasks\obj\Debug\OO_Tasks.pdb
