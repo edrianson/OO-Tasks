@@ -24,8 +24,7 @@ namespace OO_Tasks_Inheritence {
     public class Square : Shape {
         private double SideLength { get; set; }
 
-        public Square(string name, string colour, double sideLength) : base(name, colour)
-        {
+        public Square(string name, string colour, double sideLength) : base(name, colour) {
             SideLength = sideLength;
         }
 
